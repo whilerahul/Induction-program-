@@ -7,14 +7,14 @@
 
 Our first day started with peace — at the **Gurdwara Sahib** inside campus.
 
-🌀 The circular structure, the calm vibes — it felt just right.
+ The circular structure, the calm vibes — it felt just right.
 
-🎶 The *Kirtani Jatha* (3 members) recited:
+ The *Kirtani Jatha* (3 members) recited:
 - Japji Sahib Ji (Path)
 - "Satguru Hoe Diaal Taan Shraddha Poori" (Shabad)
 - Chaupai Sahib Ji (Path)
 
-📖 Then came a recitation from the **Guru Granth Sahib Ji**, followed by **Ardaas** — a prayer for our future.  
+ Then came a recitation from the **Guru Granth Sahib Ji**, followed by **Ardaas** — a prayer for our future.  
 Honestly, it was the perfect way to begin this new chapter.
 
 ---
@@ -32,7 +32,7 @@ We registered, got our welcome kits 🎁, and settled into our seats for the mai
 
 ---
 
-### 🎤 10:30 AM Onwards | **Welcome Session + Guest Talks**
+### 10:30 AM Onwards | **Welcome Session + Guest Talks**
 
 ### Here’s what I took away:
 
@@ -42,13 +42,13 @@ Loved how real and relatable she was.
 
 ---
 
-#### 🧠 Akshay Sir  
+#### 🧠 Dr. Akshay girdhar Sir  
 > "Visualize your goals. Communicate well."  
 A reminder that soft skills matter too.
 
 ---
 
-#### 💪 Parminder Singh Sir  
+#### 🎓 Dr. Parminder Singh Sir  
 > "Hard work + dedication = success."  
 He made us mentally take a pledge to commit ourselves fully.
 
