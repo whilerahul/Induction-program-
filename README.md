@@ -172,3 +172,67 @@ We’re slowly starting to feel like this place is *ours*.
 **🌱 More to come...**
 
 ---
+# 🏫 Induction Program Journal  
+## 📅 **Day 3 – Science in Motion**
+
+---
+
+### 🔬 9:00 AM – 11:00 AM | **Expert Lecture by Dr. Jaswinder Singh (“JaswinS”)**
+
+📍 *Venue: Auditorium*  
+**Topic:** *JaswinS Science & Mathematics Lab On Wheels*  
+
+This wasn’t your average lecture — it was a mix of innovation, science, and storytelling by none other than **Dr. Jaswinder Singh**, also known as *JaswinS*.  
+He's not just a physics lecturer — he’s a **nationally awarded innovator** changing how science is taught.
+
+#### 🧠 What we learned:
+
+> **“Let’s learn science & mathematics experimentally!”**
+
+- Dr. Singh's energy was infectious — you could tell he lives for *interactive science*.
+- He introduced **JaswinS Math Kit** and **Science Kit** with cool names like *“Gatte Se Ganit”* and *“Vigyan ki Kamal”*.
+- His **mobile lab on wheels** travels across Punjab to make science fun and hands-on for students — especially in rural areas.
+- We saw photos of students trying kits, practicals, and even getting awards!
+
+---
+
+### 🏆 Highlights from His Achievements:
+
+| 🏅 Award | 🏛️ Awarded By |
+|---------|----------------|
+| **State Awardee** | Govt. of Punjab |
+| **Shiksha Rattan** | Govt. of Punjab |
+| **Governor Award** | Govt. of Punjab |
+| **National Awards (Science Popularization)** | Hon’ble President of India |
+| **Malli Gyan Peeth Puraskar** | Hon’ble President of India |
+| **Asian Excellence Award 2022** | (Among 9 countries) |
+
+---
+
+### 🛠️ Roles & Contributions
+
+- Ex-Incharge: **Circle Inspection Team Punjab**
+- Ex-Assistant State Project Director (Science), Punjab
+- **Mentor**: Inspire Camps DST (Govt. of India)
+- Trainer: **SSA, RMSA, DIET, SCERT, T.C.L.**, EDUSAT, etc.
+- Associated with: **Punjab Rural Promotion Council**, **Indian Science Congress**, **IAPT**
+
+---
+
+### 💡 Takeaway:
+
+> “Learning by doing beats learning by cramming.”
+
+His session left us motivated to look at science not as a boring subject — but as something alive, fun, and truly powerful when taught the right way.
+
+---
+### 🙏 Science, Maths & Spirituality
+
+One of the most striking moments was when Dr. Jaswinder Singh drew a connection between **Science, Mathematics, and Divinity**.
+
+> 🧘‍♂️ “Mathematics is the language of the universe, and science is how we decode the design of the Creator.”
+
+He emphasized how **every formula, pattern, and principle in nature** reflects **a deeper cosmic order** — a reminder that understanding science can also be a **spiritual experience**.
+
+✨ This idea made us pause and reflect — maybe solving equations or experimenting in the lab isn't just academics... maybe it's our way of understanding something bigger.
+
