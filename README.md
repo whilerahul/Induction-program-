@@ -260,3 +260,233 @@ And that’s powerful.
 ---
 
 **🌱 One value at a time, one day at a time.**
+---
+# 🗓️ Day 4 Journal – 04-08-25 (Monday)  
+## 🎓 Department of CSE & IT  
+
+---
+
+## 🧪 9:30 AM – 10:30 AM | Chemistry Lecture  
+**Faculty:** Prof. Rajvir Kaur  
+**Venue:** TCC Seminar Hall  
+
+### 🧠 Topic: *"Connecting Chemistry with Computer Science"*
+
+> "Every byte of data and every electron in a reaction follows the same universal laws."
+
+### 💡 Key Takeaways:
+- Chemistry’s role in **semiconductor development**
+- Chemical foundations of **nanotechnology** and **quantum computing**
+- Molecular logic gates and biological computation
+
+---
+
+## 💻 10:30 AM – 11:30 AM | P2P Lecture  
+**Host:** 3rd Year Seniors  
+**Venue:** TCC Seminar Hall  
+
+### 💻 Topic: *"Introduction to C++ Programming"*
+
+### 👨‍🏫 What We Learned:
+- Basic syntax and structure of a C++ program
+- Variables, data types, and input/output
+- Role of logic in programming  
+- Encouragement to **practice daily**
+
+> "The best way to learn coding is to actually write code, not just read about it."
+
+---
+
+## ☕ 11:30 AM – 12:30 PM | Break  
+Time to relax, socialize, and mentally prepare for the second half of the day.  
+Perfect for a chai break or a quick power nap! 😴
+
+---
+
+## 🎤 12:30 PM – 2:30 PM | Expert Lecture on *Universal Human Values-2*  
+**Speaker:** Dr. Priya Darshni  
+**Venue:** 🎓 Auditorium
+
+> "A mind full of knowledge must also have a heart full of values." — Dr. Priya Darshni
+
+### 🧭 Highlights:
+- Understanding the deeper purpose of education
+- The link between human behavior and inner fulfillment
+- The importance of **coexistence** and **universal harmony**
+
+### 📝 Reflection:
+This session made us reflect on:
+- Our goals as engineers
+- Balancing ambition with ethics
+- Seeing ourselves not just as coders, but **responsible humans**
+
+---
+
+## 🌌 2:30 PM – 3:30 PM | Causmic Club Session  
+**Type:** Ice-breaking + Interactive  
+**Location:** 🎭 Auditorium
+
+### 🎉 What Happened:
+- Quizzes, team activities, and open mic
+- Shared laughter and creativity
+- Opportunity to meet new batchmates and make friends
+
+> *"When science meets fun, curiosity explodes!"*
+
+---
+
+# 🗓️ Day 5: 5th August 2025 – Tuesday
+
+> “A small delay doesn’t stop a great day.”  
+> — Me, after running around the giant campus looking for my English class 😅
+
+---
+
+## 🧭 Schedule Overview
+
+| Time                  | Subject         | Faculty             | Location      |
+|-----------------------|------------------|----------------------|----------------|
+| 9:30 AM – 10:30 AM   | English Lecture | Prof. Manjot Kaur   | ME Sem Hall    |
+| 10:30 AM – 11:30 AM  | Maths Lecture   | Prof. Rajbir Kaur   | ME Sem Hall    |
+| 11:30 AM – 12:30 PM  | BEEE Lecture    | Prof. Mandeep Kaur  | Room No. F-108 |
+
+---
+
+## ✍️ Journal Entry
+
+1. **English Lecture**
+   - I got *5 minutes late* as I was still figuring out my way around the sprawling campus 😅.
+   - Once in, Prof. Manjot Kaur made the session engaging with her warm energy and clear explanations.
+   - She stressed the importance of communication in the tech world — something I hadn’t thought of deeply until now.
+
+2. **Maths Lecture**
+   - Prof. Rajbir Kaur made sure the concepts didn’t just stay on the board but clicked in our minds.
+   - She used real-life examples to make tough equations easier to digest.
+   - Her passion for mathematics is **contagious**!
+
+3. **BEEE Lecture (Basic Electrical and Electronics Engineering)**
+   - Our very first introduction to BEEE with Prof. Mandeep Kaur.
+   - From the flow of electrons to real-world applications, she lit up the room with her insights.
+   - 🔌 Learned about basic electrical components — feels like I’m finally stepping into the world of engineering!
+---
+# 🗓️ Day 6: 6th August 2025 – Wednesday
+
+> "A good teacher is like a candle – it consumes itself to light the way for others."  
+> — Unknown
+
+---
+
+## 🧭 Schedule Overview
+
+| Time               | Session Details                                                                 | Venue          |
+|--------------------|----------------------------------------------------------------------------------|----------------|
+| 9:30 AM – 10:30 AM | **P2P Lecture**                                                                  | TCC Sem Hall   |
+| 10:30 AM – 11:30 AM| **Lecture by Prof. Jaswant Singh**                                               | TCC Sem Hall   |
+| 11:30 AM – 12:30 PM| **Break**                                                                         | —              |
+| 12:30 PM – 2:00 PM | **Lecture by Dr. Arvind Dhingra** (Director – STEP & Incharge – TAC)             | Auditorium     |
+| 2:00 PM – 3:00 PM  | **Expert Lecture by Mr. Jasvir Singh Sekhon** (District Resource Person – STEM) | Auditorium     |
+| 3:00 PM – 4:00 PM  | **Lecture by Dr. Lakhvir Singh Khanna** (Incharge – CML)                         | Auditorium     |
+
+---
+
+## ✍️ Journal Entry
+
+### 1. P2P Lecture
+The day began with a **Peer-to-Peer session** that encouraged collaborative learning. It was refreshing to see fellow students confidently taking charge of learning, explaining concepts, and sharing ideas.  
+> It reminded me that **learning is most powerful when shared.**
+
+---
+
+### 2. Lecture by Prof. Jaswant Singh
+Prof. Jaswant Singh continued his streak of powerful, insightful lectures.  
+With clarity and command, he broke down complex topics into digestible pieces — something only a passionate educator can do.
+
+---
+
+### 3. Dr. Arvind Dhingra's Talk  
+🎤 **“Add the last letter ‘J’ to passion and you get journey.”**  
+Dr. Arvind Dhingra inspired us deeply by equating passion with purpose.  
+He emphasized:
+- The power of **determination**
+- The journey of finding your **true calling**
+- How tech and attitude can shape futures
+
+> *“Your passion will keep you walking even when the path disappears.”*
+
+---
+
+### 4. Mr. Jasvir Singh Sekhon's STEM Session  
+STEM isn’t just about subjects — it’s a **mindset**.  
+Mr. Sekhon explained how innovation is born from curiosity and encouraged us to:
+- Explore robotics, AI, and scientific tools
+- Look beyond the books
+- Tackle real-world problems through smart thinking
+
+A truly energetic and futuristic session!
+
+---
+
+### 5. Dr. Lakhvir Singh Khanna’s Lecture (CML Incharge)  
+This session introduced us to **CML – Center for Multi-faceted Learning**, an initiative built to nurture multiple skills in one space.  
+Dr. Khanna talked about:
+- 🧠 Diverse learning paths
+- 📚 NPTEL and its advantages
+- 🛠️ Skill-building beyond classrooms
+
+> _“You can learn anything, anytime, anywhere – if you really want to.”_
+
+---
+
+### 💭 Bonus: Words from Gurcharan Singh  
+An ex-student and respected member of GNDEC, Gurcharan Singh reminded us:  
+> *“Respect your teachers — they shape what you become.”*  
+Simple words. Big impact.
+
+## 🗓️ Day 7 Journal – 07/08/25 (Thursday)
+
+### 🧑‍🏫 Session-wise Breakdown
+
+| 🕘 Time              | 🧠 Session & Speaker                              | 🏛️ Venue      |
+|----------------------|---------------------------------------------------|----------------|
+| 9:30 AM – 10:30 AM   | Lecture by Dr. Amit Kamra (Incharge - DMC)        | Auditorium     |
+| 10:30 AM – 11:30 AM  | Lecture by Dr. Parminder Singh (Dean - Welfare)   | Auditorium     |
+| 11:30 AM – 12:30 PM  | Lecture by Dr. Randhir Singh (Exam Conduct)       | Auditorium     |
+| 12:30 PM – 1:30 PM   | 🥪 Break                                           | —              |
+| 1:30 PM – 2:30 PM    | BEEE Lecture – Prof. Mandeep Kaur (EE Dept)       | F-107          |
+| 2:30 PM – 3:30 PM    | ID Card Formation for CSE-E                       | —              |
+
+---
+
+### 📝 Reflections
+
+#### 🗣️ **Dr. Amit Kamra**
+- Introduced the **Digital Marketing Club**.
+- Encouraged exploration of tech in marketing.
+
+#### 🧠 **Dr. Parminder Singh**
+- Urged us to work on our **limitations**.
+- Gave insight on:
+  - Central Library
+  - Computer Center
+  - Hostels, Canteen
+  - Medical Facilities
+  - NSS, NCC, Societies
+- Useful Links:
+  - `guru.gndec.ac.in`
+  - `exam.gndec.ac.in`
+  - `academic.gndec.ac.in`
+- Scholarships:
+  - Alumni, UG, Pragati (₹50K/year), SC/Minority, NSS/NCC, etc.
+
+#### 🧾 **Dr. Randhir Singh**
+- Discussed exam rules & internal marks importance (60% required).
+- Clarified make-up exam policies.
+
+#### ⚡ **Prof. Mandeep Kaur – BEEE**
+- Delivered a beginner-friendly lecture on **electrical & electronics basics**.
+
+---
+
+### 💭 Thought of the Day
+> “Identify your weaknesses not to be ashamed of them, but to conquer them.”  
+> — Inspired by Dr. Parminder Singh
