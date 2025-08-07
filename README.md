@@ -236,3 +236,27 @@ He emphasized how **every formula, pattern, and principle in nature** reflects *
 
 ✨ This idea made us pause and reflect — maybe solving equations or experimenting in the lab isn't just academics... maybe it's our way of understanding something bigger.
 
+### 🧠 11:00 AM – 1:00 PM | **“Universal Human Values” by Dr. Priya Darshini Ma’am**  
+
+This one went *deeper than expected*.
+
+👩‍🏫 **Discussion Points:**
+- How **values shape our relationships**, choices, and life path  
+- The difference between **what we want vs. what we really need**  
+- The importance of being a good human before being a good professional  
+
+> 📝 “**Being successful means nothing if you're not grounded in values.**”  
+> — A quote that stayed with me
+
+---
+
+### 💬 Reflection  
+
+Today was calm but **heavy in meaning**.  
+It reminded me that we’re not just here to earn a degree — but to **grow as people**.  
+Not every lecture needs to be flashy — some just make you pause and reflect.  
+And that’s powerful.
+
+---
+
+**🌱 One value at a time, one day at a time.**
